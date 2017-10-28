@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScrollVertical</string>
+    <string name="Gold">Gold</string>
+    <string name="DarkBlue">DarkBlue</string>
+    <string name="DarkOrange">DarkOrange</string>
+    <string name="DarkPurple">DarkPurple</string>
+    <string name="Red">Red</string>
+    <string name="Aqua">Aqua</string>
+    <string name="Magenta">Magenta</string>
+    <string name="Lime">Lime</string>
+
+
+
+</resources>
